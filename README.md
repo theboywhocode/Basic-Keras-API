@@ -9,3 +9,5 @@ To start with this repo you must have pre installed Keras (and a supported backe
 Please Note that this code is written in Python 3.0 and the latest version of Flask (v. 1.0.2) is used.
 
 Clone and make the deep learning FUN for yourself :)
+
+Hope you enjoy building some new stuffs with Keras.
